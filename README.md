@@ -9,6 +9,6 @@ https://en.wikipedia.org/wiki/Sierpinski_triangle
 ![sierpinski_triangle](sierpinski.jpeg)
 
 ## Dependencies
-> random
-> matplotlib.pyplot
+> random<br>
+> matplotlib.pyplot<br>
 > math
